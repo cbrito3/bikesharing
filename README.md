@@ -36,6 +36,11 @@ This fifth visualization shows user trips by gender by Weekday. In this visualiz
 
 !['Trips%20by%20Gender%20by%20Weekday](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Trips%20by%20Gender%20by%20Weekday.png)
 
+These two visualizations that we created in this module, the top starting and ending locations, provide other useful information. 
+In the first visualization we note that  most rides start in the most populous areas in mid and lower Manhattan. 
+!['The%20Top%20Bike%20Stations%20in%20the%20City%20for%20Starting%20a%20Journey](https://github.com/cbrito3/bikesharing/blob/main/Visualization/The%20Top%20Bike%20Stations%20in%20the%20City%20for%20Starting%20a%20Journey.png)
 
+This second visualization, due to shorter ride times, shows that the ending locations are also in those same populous areas.
+!['The%20Top%20Bike%20Stations%20for%20Ending%20a%20Journey](https://github.com/cbrito3/bikesharing/blob/main/Visualization/The%20Top%20Bike%20Stations%20for%20Ending%20a%20Journey.png)
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
