@@ -49,3 +49,7 @@ Based on the data visualization results we can recommend that a bike-sharing pro
 - Placing bikes in areas/neighborhoods that are populous and people love the bike-sharing experience.
 - While women are common bike users, their commitment is not as that as men, this should not be a reason to exclude them from any advertising and marketing promotions and strategies. Both men and women should be considered as main targets and the goal should be how to increase usage numbers in general. 
 
+
+## Tableau Links is below:
+
+[link to dashboard](https://public.tableau.com/shared/PCQ3XT72G?:display_count=n&:origin=viz_share_link)
