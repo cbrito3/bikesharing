@@ -52,4 +52,4 @@ Based on the data visualization results we can recommend that a bike-sharing pro
 
 ## Tableau Links is below:
 
-[link to dashboard](https://public.tableau.com/shared/PCQ3XT72G?:display_count=n&:origin=viz_share_link)
+[link to dashboard]([https://public.tableau.com/shared/PCQ3XT72G?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/claudia.brito/viz/bikesharing_16633150771410/Bikesharestory?publish=yes))
