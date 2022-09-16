@@ -1,6 +1,6 @@
 # bikesharing
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
 The goal of this analysis is to solidify the proposal for investors and convice them that a bike-sharing program in Des moine is a solid business proposal. 
 For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype and converted datatype as seen below. 
@@ -16,7 +16,7 @@ Show the number of bike trips for all riders and genders for each hour of each d
 Show the number of bike trips for each type of user and gender for each day of the week.
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results: 
 This first visualization shows the length of time of every bike ride during the month of August in 2019. This information allows us to see that riders typically like to bike between 2 and 15 minutes.
 
 !['Checkout%20time%20by%20Users](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Checkout%20time%20by%20Users.png)
@@ -44,3 +44,8 @@ This second visualization, due to shorter ride times, shows that the ending loca
 !['The%20Top%20Bike%20Stations%20for%20Ending%20a%20Journey](https://github.com/cbrito3/bikesharing/blob/main/Visualization/The%20Top%20Bike%20Stations%20for%20Ending%20a%20Journey.png)
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+Based on the data visualization results we can recommend that a bike-sharing program in Des moine is indeed a solid business proposal. Some recommendations are: 
+- Placing bikes in areas/neighborhoods that are populous and people love the bike-sharing experience.
+- While women are common bike users, their commitment is not as that as men, this should not be a reason to exclude them from any advertising and marketing promotions and strategies. Both men and women should be considered as main targets and the goal should be how to increase usage numbers in general. 
+
