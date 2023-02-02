@@ -24,14 +24,9 @@ For this analysis, I used Pandas to convert the "tripduration" column from an in
 
 !['datatypes%20of%20your%20columns](https://github.com/cbrito3/bikesharing/blob/main/Visualization/datatypes%20of%20your%20columns.png)
 
-Then, using the converted datatype, I created a set of visualizations to:
-Show the length of time that bikes are checked out for all riders and genders
-Show the number of bike trips for all riders and genders for each hour of each day of the week
-Show the number of bike trips for each type of user and gender for each day of the week.
-Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 ## Results: 
-This first visualization shows the length of time of every bike ride during the month of August in 2019. This information allows us to see that riders typically like to bike between 2 and 15 minutes.
+As mentioned previously, using the converted datatype, I created a set of visualizations that are shown as part of the results. This first visualization shows the length of time of every bike ride during the month of August in 2019. This information allows us to see that riders typically like to bike between 2 and 15 minutes.
 
 !['Checkout%20time%20by%20Users](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Checkout%20time%20by%20Users.png)
 
@@ -39,7 +34,7 @@ This second visualization shows the breakdown of riders by gender and duration o
 
 !['Checkout%20time%20by%20Gender](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Checkout%20time%20by%20Gender.png)
 
-This third visualization shows user trips by weekdday for each hour of the day as a heatmap.. This shows that from a weekday perspective trips are most common on Thursdays afternoon between 5pm and 6pm.  
+This third visualization shows user trips by weekdday for each hour of the day as a heatmap. This shows that from a weekday perspective trips are most common on Thursdays afternoon between 5pm and 6pm.  
 
 !['Trips%20by%20Weekday%20Per%20Hour%20](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Trips%20by%20Weekday%20Per%20Hour%20.png)
 
@@ -50,7 +45,7 @@ This fifth visualization shows user trips by gender by Weekday. In this visualiz
 
 !['Trips%20by%20Gender%20by%20Weekday](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Trips%20by%20Gender%20by%20Weekday.png)
 
-These two visualizations that we created in this module, the top starting and ending locations, provide other useful information. 
+These two visualizations that I created in this module, the top starting and ending locations, provide other useful information. 
 In the first visualization we note that  most rides start in the most populous areas in mid and lower Manhattan. 
 !['The%20Top%20Bike%20Stations%20in%20the%20City%20for%20Starting%20a%20Journey](https://github.com/cbrito3/bikesharing/blob/main/Visualization/The%20Top%20Bike%20Stations%20in%20the%20City%20for%20Starting%20a%20Journey.png)
 
@@ -59,7 +54,7 @@ This second visualization, due to shorter ride times, shows that the ending loca
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
-Based on the data visualization results we can recommend that a bike-sharing program in Des moine is indeed a solid business proposal. Some recommendations are: 
+Based on the data visualization results I can recommend that a bike-sharing program in Des moine is indeed a solid business proposal. Some recommendations are: 
 - Placing bikes in areas/neighborhoods that are populous and people love the bike-sharing experience.
 - While women are common bike users, their commitment is not as that as men, this should not be a reason to exclude them from any advertising and marketing promotions and strategies. Both men and women should be considered as main targets and the goal should be how to increase usage numbers in general. 
 
