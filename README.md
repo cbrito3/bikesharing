@@ -2,13 +2,27 @@
 
 ## Overview of the analysis:
 
-The goal of this analysis is to solidify the proposal for investors and convice them that a bike-sharing program in Des moine is a solid business proposal. 
-For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype and converted datatype as seen below. 
+* The goal of this analysis is to solidify the proposal for investors and convice them that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+
+* For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
+  - Show the length of time that bikes are checked out for all riders and genders
+  - Show the number of bike trips for all riders and genders for each hour of each day of the week
+  - Show the number of bike trips for each type of user and gender for each day of the week.
+
+* Finally, I added these new visualizations to the two I created for my final presentation and analysis to pitch to investors.
+
+* Last but not least, this report includes two technical analysis deliverables and a written report to present my results. 
+  - Deliverable 1: Change Trip Duration to a Datetime Format
+  - Deliverable 2: Create Visualizations for the Trip Analysis
+  - Deliverable 3: Create a Story and Report for the Final Presentation
+
+## Change Trip Duration to a Datetime Format
+
+For this analysis, I used Pandas to convert the "tripduration" column from an integer to a datetime datatype and converted datatype as seen below. Also, the DataFrame is exported as a new file without the index column.
 
 !['tripduration'%20column%20to%20datetime](https://github.com/cbrito3/bikesharing/blob/main/Visualization/'tripduration'%20column%20to%20datetime.png)
 
 !['datatypes%20of%20your%20columns](https://github.com/cbrito3/bikesharing/blob/main/Visualization/datatypes%20of%20your%20columns.png)
-
 
 Then, using the converted datatype, I created a set of visualizations to:
 Show the length of time that bikes are checked out for all riders and genders
