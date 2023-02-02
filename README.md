@@ -16,7 +16,7 @@
   - Deliverable 2: Create Visualizations for the Trip Analysis
   - Deliverable 3: Create a Story and Report for the Final Presentation
 
-## Change Trip Duration to a Datetime Format
+## - Change Trip Duration to a Datetime Format
 
 For this analysis, I used Pandas to convert the "tripduration" column from an integer to a datetime datatype and converted datatype as seen below. Also, the DataFrame is exported as a new file without the index column.
 
@@ -26,6 +26,7 @@ For this analysis, I used Pandas to convert the "tripduration" column from an in
 
 
 ## Results: 
+  # Create Visualizations for the Trip Analysis
 As mentioned previously, using the converted datatype, I created a set of visualizations that are shown as part of the results. This first visualization shows the length of time of every bike ride during the month of August in 2019. This information allows us to see that riders typically like to bike between 2 and 15 minutes.
 
 !['Checkout%20time%20by%20Users](https://github.com/cbrito3/bikesharing/blob/main/Visualization/Checkout%20time%20by%20Users.png)
