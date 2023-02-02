@@ -16,7 +16,7 @@
   - Deliverable 2: Create Visualizations for the Trip Analysis
   - Deliverable 3: Create a Story and Report for the Final Presentation
 
-## - Change Trip Duration to a Datetime Format
+  # Change Trip Duration to a Datetime Format
 
 For this analysis, I used Pandas to convert the "tripduration" column from an integer to a datetime datatype and converted datatype as seen below. Also, the DataFrame is exported as a new file without the index column.
 
