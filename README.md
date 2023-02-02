@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview of the analysis:
 
